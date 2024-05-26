@@ -46,5 +46,7 @@ Subqueries can be used in various parts of SQL statements, enhancing their flexi
 Subqueries enhance SQL’s capability to perform complex data retrieval and manipulation tasks, making your database interactions more powerful and efficient.
 
 ---
+### Connect with Me
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayshath-lubna-16561226b) to follow my journey and see more of my work.
 
 This README file serves as a brief guide to understanding subqueries in SQL and their various applications. For any questions or further discussions, feel free to connect and share your thoughts!
